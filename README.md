@@ -1,7 +1,7 @@
 # TestTechnique
 
-Bonjour,\n
-Voici le test technique requis\n
+Bonjour,\
+Voici le test technique requis\
 Mes excuses pour sa simplicite, mais je suis en plein rush. 
 
 Cordialement, Arthur SAYAD. 
